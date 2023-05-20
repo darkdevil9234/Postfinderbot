@@ -1,8 +1,8 @@
-API_ID       = 
+API_ID       = ""
 API_HASH     = ""
 BOT_TOKEN    = ""
 SESSION      = ""
 DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+LOG_CHANNEL  = -1001801471389
+ADMIN        = 5007198306
+CHANNEL      = "@cinemaa_boxoffice"
